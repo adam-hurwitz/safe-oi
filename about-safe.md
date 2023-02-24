@@ -5,9 +5,6 @@ description: Digital ownership for everyone
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/fNvoR6H4RjCygPVIn7-Fzw/badge)](https://hackmd.io/fNvoR6H4RjCygPVIn7-Fzw)
-
-
 <h1 style="text-align: center;">🔰 Safe</h1>
 
 <p style="text-align: center; 
