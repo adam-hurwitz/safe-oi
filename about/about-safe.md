@@ -12,9 +12,11 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     <a href="https://safe.global" target="_blank">safe.gobal</a>
 </p>
 
-*Built by the [Gnosis](https://docs.google.com/document/d/1fOUXetypIUivwpQOdoryHDGthPH6RVveUsJAnNLMgf0/edit#heading=h.d4vznspj035a) team (Formerly Gnosis Safe)*
+*Mission – Bring digital ownership to everyone by building a universal and open smart contract standard for custody of digital assets, data, and identity with the Safe ecosystem.*
 
 # About
+
+*Built by the [Gnosis](https://docs.google.com/document/d/1fOUXetypIUivwpQOdoryHDGthPH6RVveUsJAnNLMgf0/edit#heading=h.d4vznspj035a) team (Formerly Gnosis Safe)*
 
 ## Use cases
 *See [@SchorLukas Tweet 2022-12-25](https://twitter.com/SchorLukas/status/1606959671671390208)*
