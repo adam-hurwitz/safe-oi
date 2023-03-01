@@ -52,6 +52,12 @@ Apps
     - [Den Raises $2.8M to Help Teams Execute Onchain Transactions 10X Faster](https://www.onchainden.com/blog/fundraise) *by Den 2023-02-23*
     - [Crypto Wallet Startup Den Gets $2.8M in Seed Funding Led by IDEO CoLab Ventures](https://www.coindesk.com/business/2023/02/22/crypto-wallet-startup-den-gets-28m-in-seed-funding-led-by-ideo-colab-ventures/) *by CoinDesk 2023-02-23*
 
+#### Firm
+
+- About: Coordination for teams
+- Site: [firm.org](https://firm.org/)
+- Twitter: [@firm](https://twitter.com/firm)
+
 #### Karma
 
 - About: User analytics for DAOs
