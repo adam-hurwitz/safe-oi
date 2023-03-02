@@ -28,7 +28,9 @@ Community and support
 
 #### Development
 
-- Documentation: [docs.gnosis-safe.io](https://docs.gnosis-safe.io/)
+- Documentation
+    - [safe.global/core](https://safe.global/core)
+    - [docs.gnosis-safe.io](https://docs.gnosis-safe.io/)
     - Contribute: [github.com/safe-global/safe-docs](https://github.com/safe-global/safe-docs#-introduction)
 - Safe developer relations: [@tomiwa1a Twitter thread 2022-01-06](https://twitter.com/tomiwa1a/status/1611231541094658048)
 
