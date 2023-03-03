@@ -18,11 +18,11 @@ Opportunities
     - Not natively supported: *[Safe Community Discord #safe-web](https://discord.com/channels/907968493134155807/908129365345312768/948697325411401778) 2022-03-02*
     - Can use [Transaction Builder](https://help.safe.global/en/articles/4680071-transaction-builder) app
 
-#### App permissions (P1)
+#### Access control (P1)
 
 - About
-    - Guide: [App permissions](https://docs.google.com/document/d/1HI_LLqG3Bu_p32TqNb7Fl2IkkPVCVi5XE944mXfQJ5o/edit#bookmark=id.yqbbm1nampe9)
-    - Safe forum: [🫱🏻‍🫲🏼 Build Safe app permissions to improve security and UX](https://forum.gnosis-safe.io/t/delegate-safe-access-to-improve-security-and-ux/2646) *2023-02-06*
+    - Guide: [Crypto account access control](https://hackmd.io/@openguide/crypto-access-control)
+    - Safe forum: [🫱🏻‍🫲🏼 Safe access control to improve security and UX](https://forum.gnosis-safe.io/t/delegate-safe-access-to-improve-security-and-ux/2646) *2023-02-06*
 - Potential features
     - Safe module for delegation of permissions with [Delegate.cash](https://delegate.cash) registry
     - Manage delegations: Set permissions, view, and revoke
