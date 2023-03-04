@@ -13,6 +13,7 @@ Community and support
 - [SafeDAO](https://hackmd.io/@safedao/og)
 - Twitter: [@safe](https://twitter.com/safe)
 - Discord: [chat.safe.global](https://chat.safe.global)
+- Events: [2023 Safe Events Calendar](https://gnosis-safe.notion.site/2023-Safe-Events-Calendar-Public-a1ff762221814e0ba7963fc14bdbea91)
 - StackExchange: [ethereum.stackexchange.com/questions/tagged/gnosis-safe](https://ethereum.stackexchange.com/questions/tagged/gnosis-safe)
 - GitHub: [github.com/safe-global](https://github.com/safe-global)
 
