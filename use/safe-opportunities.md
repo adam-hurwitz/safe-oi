@@ -21,7 +21,7 @@ Opportunities
 #### Access control (P1)
 
 - About
-    - Guide: [Crypto account access control](https://hackmd.io/@openguide/crypto-access-control)
+    - [Crypto account access control](https://hackmd.io/@openguide/crypto-access-control)
     - Safe forum: [🫱🏻‍🫲🏼 Safe access control to improve security and UX](https://forum.gnosis-safe.io/t/delegate-safe-access-to-improve-security-and-ux/2646) *2023-02-06*
 - Potential features
     - Safe module for delegation of permissions with [Delegate.cash](https://delegate.cash) registry
