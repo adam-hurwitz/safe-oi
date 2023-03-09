@@ -35,6 +35,7 @@ Apps
 
 - About: Coordination for teams
 - Site: [onchainden.com](https://www.onchainden.com)
+- Twitter: [@OnChainDen](https://twitter.com/OnChainDen)
 - Origin story: [@IttaiSvidler Tweet 2023-01-17](https://twitter.com/IttaiSvidler/status/1615364681157468163)
 - Product
     - Open beta 2023-01-17
@@ -62,18 +63,21 @@ Apps
 
 - About: User analytics for DAOs
 - Site: [showkarma.xyz](https://www.showkarma.xyz/)
+- Twitter: [@karmahq_](https://twitter.com/karmahq_)
 
 #### Tally
 
 - About: On-chain governance, e.g., voting, spending, and permissioning
 - Site: [tally.xyz](https://www.tally.xyz)
     - [Types of DAOs](https://www.tally.xyz/add-a-dao)
+- Twitter: [@tallyxyz](https://twitter.com/tallyxyz)
 - ERC20 token or an NFT for membership and voting power
 
 #### Multis
 
 - About: Checking accounts, corporate cards, and crypto access
 - Site: [multis.co](https://multis.co)
+- Twitter: [@multisHQ](https://twitter.com/multishq)
 
 ## Messaging tools
 
@@ -81,6 +85,7 @@ Apps
 
 - About: Create a safe from a Telegram chat.
 - Site: [nindao.xyz](https://nindao.xyz)
+- Twitter: [@nindao_bot](https://twitter.com/nindao_bot)
 - Built by Daoism Systems
     - Site: [daoism.systems](https://daoism.systems)
 
@@ -90,7 +95,8 @@ Apps
 
 - About: Tax and accounting for teams
 - Site: [bitwave.io](https://www.bitwave.io)
--  Adoption: Opensea, Compound, and Polygon 
+- Twitter: [@BitwavePlatform](https://twitter.com/bitwaveplatform)
+- Adoption: Opensea, Compound, and Polygon 
 - *See [Bitwave raises $15 million for crypto-focused tax and accounting platform](https://www.theblock.co/post/192648/bitwave-raises-15-million-for-crypto-focused-tax-and-accounting-platform) by The Block 2022-12-06*
 
 <p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
