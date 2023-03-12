@@ -52,6 +52,14 @@ Opportunities
 - Safe app adoption
     - Castle: [@CastleLinkHQ tweet 2023-01-16](https://twitter.com/CastleLinkHQ/status/1615044250596708354)
 
+#### Show who you know has used a given contract (P1)
+
+- Similar to social proof on Twitter seeing who you follow follows another account to make sure you don't follow a fake account.
+- Based on your contact list of addresses saved.
+- Shows contact's transaction count with a given contract.
+- Can message contacts about questions on a given contract based on their experience.
+- *See [@adamshurwitz Tweet 2023-03-11](https://twitter.com/adamshurwitz/status/1634709915066327040)*
+
 #### Verify cosigners with an off-chain transaction (P2)
 
 - Show cosigner info on the hardware devices directly for users to verify prior to signing a transaction.
