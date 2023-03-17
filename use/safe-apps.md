@@ -24,12 +24,17 @@ Apps
 
 ## Team operations
 
-#### Zodiac
+#### Utopia Labs
 
-- About: Open protocols for DAOs
-- Site: [gnosisguild.org](https://www.gnosisguild.org)
-- Blog: [gnosisguild.mirror.xyz](https://gnosisguild.mirror.xyz)
-- Built by [@gnosisGuild](https://twitter.com/gnosisguild)
+- Site: [utopialabs.com](https://www.utopialabs.com/)
+- Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
+- Investor: Paradigm
+    - [paradigm.xyz/portfolio](https://www.paradigm.xyz/portfolio)
+- Related topics
+    - Utopia was used to raise funds for Ukraine in the initial days of the Russian 2022 invasion
+        - [UkraineDAO Raises $7M and Builds Global Network of Supporters, Says Co-Founder Alona](https://thedefiant.io/ukrainedao-fundraising-7m) *by The Defiant 2022-03-02*
+        - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
+        - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
 
 #### den
 
