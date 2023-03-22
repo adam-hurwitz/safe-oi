@@ -1,6 +1,6 @@
 ---
 title: 🔰 About Safe
-tags: Safe
+tags: safe
 description: Digital ownership for everyone
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -46,7 +46,6 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### About
 
 - Assets under management (AUM)
-    - [safe.global/security](https://safe.global/security)
     - [dune.com/safe/ethereum](https://dune.com/safe/ethereum)
 - $7.5mm [honey pot](https://en.wikipedia.org/wiki/Honeypot_(computing))
 - Bug bounties: ≤ $100k per bug
