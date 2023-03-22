@@ -45,8 +45,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 #### About
 
-- Assets under management (AUM)
-    - [dune.com/safe/ethereum](https://dune.com/safe/ethereum)
+- Assets under management (AUM): [dune.com/safe/ethereum](https://dune.com/safe/ethereum)
 - $7.5mm [honey pot](https://en.wikipedia.org/wiki/Honeypot_(computing))
 - Bug bounties: ≤ $100k per bug
 
