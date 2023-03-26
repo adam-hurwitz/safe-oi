@@ -1,6 +1,6 @@
 ---
 title: 🔰 Safe layer 2s (L2s)
-tags: Safe
+tags: safe
 description: Safe layer 2s (L2s)
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -22,6 +22,14 @@ Layer 2s (L2s)
 - AVAX
 - [BSC](https://dune.com/safe/bsc)
 - EWC
+
+#### Multichain strategy
+
+- Enable the features of programmable accounts without interacting directly with the contracts.
+    - [Account Abstraction is NOT coming](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI) *by Safe 2023-02-09*
+- Use a universal readable name/ID to interact across many protocols.
+    - E.g. Ethereum Name Service (ENS) maps the name/ID to each chain-specific address.
+    - [Account Abstraction in a Multichain Landscape - Part 1: Addresses](https://safe.mirror.xyz/4GcGAOFno-suTCjBewiYH4k4yXPDdIukC5woO5Bjc4w) *by Safe 2023-03-22*
 
 #### Resources
 
