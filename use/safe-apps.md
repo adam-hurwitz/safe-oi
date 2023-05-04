@@ -1,6 +1,6 @@
 ---
 title: 🔰 Safe apps
-tags: Safe
+tags: safe
 description: Safe apps
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -83,6 +83,15 @@ Apps
 - About: Checking accounts, corporate cards, and crypto access
 - Site: [multis.co](https://multis.co)
 - Twitter: [@multisHQ](https://twitter.com/multishq)
+
+
+#### Metropolis
+
+- About
+    - Explorer for account access controls
+    - Manager role for adding and removing other signer accounts
+- Site: [pod.xyz](https://pod.xyz)
+- Twitter: [0xMetropolis](https://twitter.com/0xMetropolis)
 
 ## Messaging tools
 
