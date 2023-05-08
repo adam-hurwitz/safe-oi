@@ -80,10 +80,13 @@ Apps
 
 #### Multis
 
-- About: Checking accounts, corporate cards, and crypto access
+- About
+    - Checking accounts, corporate cards, and crypto access
+    - Offramp assets to bank accounts
+        - Powered by [bridge.xyz](https://www.bridge.xyz)
 - Site: [multis.co](https://multis.co)
 - Twitter: [@multisHQ](https://twitter.com/multishq)
-
+- Opportunity: ...
 
 #### Metropolis
 
