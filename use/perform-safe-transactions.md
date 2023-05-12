@@ -1,6 +1,6 @@
 ---
 title: 🔰 Perform Safe transactions
-tags: Safe
+tags: safe
 description: Perform Safe transactions
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -68,7 +68,7 @@ Perform transactions
         - Restart Safe and cosigner wallet.
         - Check the Safe UI in a few minutes.
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

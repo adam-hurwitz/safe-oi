@@ -1,6 +1,6 @@
 ---
 title: 🔰 Safe backup and recovery
-tags: Safe
+tags: safe
 description: Safe backup and recovery
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -62,7 +62,7 @@ Backup and recovery
     2. Run the code with the [Safe Transaction Service](https://github.com/safe-global/safe-transaction-service#safe-transaction-service).
         - Connect to an Ethereum node to run the service.
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

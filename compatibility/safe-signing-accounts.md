@@ -1,6 +1,6 @@
 ---
 title: 🔰 Signing accounts
-tags: Safe
+tags: safe
 description: Signing accounts
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -80,7 +80,7 @@ Signing accounts
         - Import in airplane/offline mode for improved security.
     - [Generate new signer key](https://help.safe.global/en/articles/5333937-generate-new-signer-key) (12-word seed phrase)
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

@@ -1,6 +1,6 @@
 ---
 title: 🔰 Safe opportunities
-tags: Safe
+tags: safe
 description: Safe opportunities
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
@@ -164,7 +164,7 @@ Opportunities
     - Attribution of contributions (Similar to StackOverflow)
     - Useful to know what content is from the core team vs the community.
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

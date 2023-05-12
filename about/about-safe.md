@@ -29,11 +29,12 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Apps
     - Roles
 - Automation
-- Scheduled transactions
+    - Scheduled transactions
 - Gas abstraction
+- Ethereum staking: [Stake ETH with Confidence: How to Use Safe Smart Accounts for Ethereum Validators](https://help.safe.global/en/articles/71879-stake-eth-with-confidence-how-to-use-safe-smart-accounts-for-ethereum-validators)
 - Fraud monitoring
 - Post-quantum signature schemes
-- Etc.
+- etc.
 
 ## Protocols
 
@@ -95,7 +96,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Each account address can have its own ENS subdomain. *by [@adamshurwitz 2021-05-06](https://twitter.com/adamshurwitz/status/1390402730695536644)*
     - Question: Does Safe use the Registrant or Controller address?
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

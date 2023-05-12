@@ -37,7 +37,7 @@ Layer 2s (L2s)
 - [Gnosis Safe is Live on Layer 2!](https://blog.gnosis.pm/gnosis-safe-is-live-on-layer-2-24adf83f0032) > [Logging into Layer 2s](https://blog.gnosis.pm/gnosis-safe-is-live-on-layer-2-24adf83f0032#fc67) *2021-07-13*
 - [Gnosis Safe's Multichain Future](https://blog.gnosis.pm/gnosis-safes-multichain-future-b676b5b8f431) *2021-05-12*
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {

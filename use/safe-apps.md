@@ -116,7 +116,7 @@ Apps
 - Adoption: Opensea, Compound, and Polygon 
 - *See [Bitwave raises $15 million for crypto-focused tax and accounting platform](https://www.theblock.co/post/192648/bitwave-raises-15-million-for-crypto-focused-tax-and-accounting-platform) by The Block 2022-12-06*
 
-<p style="text-align: center; font-style: italic">This content is not financial, technical, or legal advice. Always consult a financial professional and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
     .markdown-body h1 {
