@@ -24,18 +24,6 @@ Apps
 
 ## Team operations
 
-#### Utopia Labs
-
-- Site: [utopialabs.com](https://www.utopialabs.com/)
-- Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
-- Investor: Paradigm
-    - [paradigm.xyz/portfolio](https://www.paradigm.xyz/portfolio)
-- Related topics
-    - Utopia was used to raise funds for Ukraine in the initial days of the Russian 2022 invasion
-        - [UkraineDAO Raises $7M and Builds Global Network of Supporters, Says Co-Founder Alona](https://thedefiant.io/ukrainedao-fundraising-7m) *by The Defiant 2022-03-02*
-        - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
-        - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
-
 #### den
 
 - About: Coordination for teams
@@ -70,13 +58,13 @@ Apps
 - Site: [showkarma.xyz](https://www.showkarma.xyz/)
 - Twitter: [@karmahq_](https://twitter.com/karmahq_)
 
-#### Tally
+#### Metropolis
 
-- About: On-chain governance, e.g., voting, spending, and permissioning
-- Site: [tally.xyz](https://www.tally.xyz)
-    - [Types of DAOs](https://www.tally.xyz/add-a-dao)
-- Twitter: [@tallyxyz](https://twitter.com/tallyxyz)
-- ERC20 token or an NFT for membership and voting power
+- About
+    - Explorer for account access controls
+    - Manager role for adding and removing other signer accounts
+- Site: [pod.xyz](https://pod.xyz)
+- Twitter: [0xMetropolis](https://twitter.com/0xMetropolis)
 
 #### Multis
 
@@ -88,13 +76,31 @@ Apps
 - Twitter: [@multisHQ](https://twitter.com/multishq)
 - Opportunity: ...
 
-#### Metropolis
+#### Screen
 
-- About
-    - Explorer for account access controls
-    - Manager role for adding and removing other signer accounts
-- Site: [pod.xyz](https://pod.xyz)
-- Twitter: [0xMetropolis](https://twitter.com/0xMetropolis)
+- About: Optional custodial recovery and fraud detection
+- Site: [screenprotocol.io](https://screenprotocol.io)
+- Twitter: [@screenprotocol](https://twitter.com/screenprotocol)
+
+#### Tally
+
+- About: On-chain governance, e.g., voting, spending, and permissioning
+- Site: [tally.xyz](https://www.tally.xyz)
+    - [Types of DAOs](https://www.tally.xyz/add-a-dao)
+- Twitter: [@tallyxyz](https://twitter.com/tallyxyz)
+- ERC20 token or an NFT for membership and voting power
+
+#### Utopia Labs
+
+- Site: [utopialabs.com](https://www.utopialabs.com/)
+- Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
+- Investor: Paradigm
+    - [paradigm.xyz/portfolio](https://www.paradigm.xyz/portfolio)
+- Related topics
+    - Utopia was used to raise funds for Ukraine in the initial days of the Russian 2022 invasion
+        - [UkraineDAO Raises $7M and Builds Global Network of Supporters, Says Co-Founder Alona](https://thedefiant.io/ukrainedao-fundraising-7m) *by The Defiant 2022-03-02*
+        - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
+        - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
 
 ## Messaging tools
 
