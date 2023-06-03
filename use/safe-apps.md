@@ -22,7 +22,7 @@ Apps
     - Twitter: [@signinwitheth](https://twitter.com/signinwitheth)
 - Blog: [blog.spruceid.com/author/spruce](https://blog.spruceid.com/author/spruce)
 
-## Team operations
+## Coordination
 
 #### den
 

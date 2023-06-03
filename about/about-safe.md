@@ -19,21 +19,15 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 *Built by the [Gnosis](https://docs.google.com/document/d/1fOUXetypIUivwpQOdoryHDGthPH6RVveUsJAnNLMgf0/edit#heading=h.d4vznspj035a) team (Formerly Gnosis Safe)*
 
 ## Use cases
-*See [@SchorLukas Tweet 2022-12-25](https://twitter.com/SchorLukas/status/1606959671671390208)*
+*See [Things you can do with Safe](https://docs.safe.global/learn/things-you-can-do-with-safe) in Safe docs*
 
-- Spending policies
 - Hybrid custody
-- Recovery mechanisms
-- Transaction batching
 - Permissioning
     - Apps
     - Roles
 - Automation
     - Scheduled transactions
-- Gas abstraction
 - Ethereum staking: [Stake ETH with Confidence: How to Use Safe Smart Accounts for Ethereum Validators](https://help.safe.global/en/articles/71879-stake-eth-with-confidence-how-to-use-safe-smart-accounts-for-ethereum-validators)
-- Fraud monitoring
-- Post-quantum signature schemes
 - etc.
 
 ## Protocols
@@ -47,8 +41,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### About
 
 - Assets under management (AUM): [dune.com/safe/ethereum](https://dune.com/safe/ethereum)
-- $7.5mm [honey pot](https://en.wikipedia.org/wiki/Honeypot_(computing))
-- Bug bounties: ≤ $100k per bug
+- Bug bounties ≤ $1mm: [Bug Bounty](https://docs.safe.global/learn/security/bug-bounty-program) *in Safe docs*
 
 #### Product
 
@@ -73,18 +66,18 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - [Gnosis Safe Rebrands as Safe, Raises $100M](https://www.coindesk.com/business/2022/07/12/gnosis-safe-rebrands-as-safe-raises-100m/) *by CoinDesk 2022-07-12*
     - 1kx, Coinbase Ventures, Tiger Global, Lightspeed, and Digital Currency Group
 
-#### Partners
+#### Adoption and integrations
 
-*See [Third-party Frontends](https://docs.gnosis-safe.io/discover)*
-
-- Open Zeppelin
-- ENS
-- MetaMask
-- Balancer
-- Synthetix
-- Aave
-- Energy Web
+*See [safe.global](https://safe.global) > Trusted by the best*
 - 1inch
+- Aave
+- Balancer
+- Energy Web
+- Ethereum Name Service (ENS)
+- Maker
+- MetaMask
+- Open Zeppelin
+- Synthetix
 - Yearn
 - etc.
 

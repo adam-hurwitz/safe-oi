@@ -11,7 +11,7 @@ Layer 2s (L2s)
 #### About
 
 - Requires creating a new Safe on each network
-- Make sure to use the correct token contract for the given Layer 2 (L2).
+- Make sure to use the correct token contract for the given Layer 2 (L2)
 
 #### Types
 
