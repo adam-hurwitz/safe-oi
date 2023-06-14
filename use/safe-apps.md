@@ -74,7 +74,13 @@ Apps
         - Powered by [bridge.xyz](https://www.bridge.xyz)
 - Site: [multis.co](https://multis.co)
 - Twitter: [@multisHQ](https://twitter.com/multishq)
-- Opportunity: ...
+
+#### Parcel
+
+- About: Payment operating system for teams
+- Site: [parcel.money](https://parcel.money)
+- Adoption: Bankless DAO, Index Coop, ENS DAO, Developer DAO, Audio Grants Committee, dydx, Forefront
+- Investors: Dragonfly Capital, Consensys, Sandeep Nailwal (Polygon co-founder), and etc.
 
 #### Screen
 
@@ -93,12 +99,24 @@ Apps
 #### Utopia Labs
 
 - Site: [utopialabs.com](https://www.utopialabs.com/)
-- Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
-- Investor: Paradigm
+- Community and support
+    - Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
+    - Blog: [mirror.xyz/utopialabs.eth](https://mirror.xyz/utopialabs.eth)
+- Use
+    - Offramp assets to bank accounts
+        - Powered by [bridge.xyz](https://www.bridge.xyz)
+        - [Introducing Off Ramps](https://mirror.xyz/utopialabs.eth/U02sqbb6mt9MDdjaykz2DGfDbiJZtF0gz2hSo7HLHNM)
+    - Accounting tools
+        - [How to manage your transactions and view your insights](https://utopia-labs.notion.site/How-to-manage-your-transactions-and-view-your-insights-7b13e55a3f0742ffb66d66eb4679114f)
+        - [Welcome, Bookkeeping.](https://mirror.xyz/utopialabs.eth/8Wrz2Y2FuE9klFh4sbmcw9ds5j6rhPt7VkHTTlSkFXY)
+        - [Introducing: Multi-Safe Organizations and Our Official Bid as Your Crypto Accounting Tool](https://mirror.xyz/utopialabs.eth/1QeX3L2IPUFGXJ5GINaUyi75DH2U0w9oRc5eT7XdDlM)
+    - Layer 2 (L2) support: Arbitrum, Optimism, Polygon, Gnosis Chain, BNB Chain, Avalanche
+- Adoption: Gitcoin, SushiSwap, Badger, etc.
+- Investors: Paradigm, Kindred Ventures, Circle Ventures, Gusto, Coinbase Ventures, Infinity Ventures Crypto, Distributed Global, and Fourth Revolution Capital
     - [paradigm.xyz/portfolio](https://www.paradigm.xyz/portfolio)
+    - [Utopia: The Future of Coordination](https://mirror.xyz/utopialabs.eth/H1-KPA2HxHzow0WQt35afJl-uQtTv2alTzFqRpRXeNU): $23mm raised
 - Related topics
     - Utopia was used to raise funds for Ukraine in the initial days of the Russian 2022 invasion
-        - [UkraineDAO Raises $7M and Builds Global Network of Supporters, Says Co-Founder Alona](https://thedefiant.io/ukrainedao-fundraising-7m) *by The Defiant 2022-03-02*
         - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
         - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
 
