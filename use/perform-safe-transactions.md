@@ -23,6 +23,16 @@ Perform transactions
     - No other txn can be executed until the current txn is executed, canceled, or replaced.
     - First in first out (FIFO)
 
+#### Security features
+
+- Transaction simulation
+    - [How Safe Integrates TX Simulations to Bring Multisig Users Security and Peace of Mind](https://blog.tenderly.co/case-studies/safe/) *by tenderly*
+- DeFirewall by Redefine
+    - Identifies the risks of using the contract(s) involved in making a transaction(s)
+    - Displays the proposed asset balance changes
+    - E.g. Is the contract on a known block list, is there little to no contract activity, etc.
+    - *See [Redefine security with new Safe{Wallet} transaction risk scanner](https://safe.mirror.xyz/rInLWZwD_sf7enjoFerj6FIzCYmVMGrrV8Nhg4THdwI) by Safe*
+
 ## Steps
 
 1. Create the txn: Safe > Submit *New Transaction*
