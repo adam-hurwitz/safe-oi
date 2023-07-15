@@ -24,19 +24,30 @@ Apps
 
 ## Coordination
 
+#### Coinshift
+
+- About: Treasury management and reporting
+- Site: [coinshift.xyz](https://coinshift.xyz/)
+- Community and support
+    - Twitter: [@0xCoinShift](https://twitter.com/0xCoinshift) 
+    - Blog: [blog.coinshift.xyz](https://blog.coinshift.xyz)
+- Reports
+    - Using TaxBit APIs
+    - [Feature Spotlight: Portfolio History](https://blog.coinshift.xyz/portfolio-history) *by Coinshift*
+
 #### den
 
 - About: Coordination for teams
 - Site: [onchainden.com](https://www.onchainden.com)
 - Twitter: [@OnChainDen](https://twitter.com/OnChainDen)
 - Origin story: [@IttaiSvidler Tweet 2023-01-17](https://twitter.com/IttaiSvidler/status/1615364681157468163)
-- Product
+- Features
     - Open beta 2023-01-17
     - Custom contract/token allowance approvals
-- Adoption
-    - Lido
-    - PleasrDAO
-    - OlympusDAO
+    - Pay for transaction costs from Safe
+        - Instead of individual accounts
+        - *See [@OnChainDen Tweet 2023-07-11](https://twitter.com/OnChainDen/status/1678760342422183937)*
+- Adoption: Lido, PleasrDAO, OlympusDAO, and etc.
 - Investors
     - IDEO CoLab Ventures
     - Gnosis
@@ -75,6 +86,17 @@ Apps
 - Site: [multis.co](https://multis.co)
 - Twitter: [@multisHQ](https://twitter.com/multishq)
 
+#### Nest
+
+- Site: [nestwallet.xyz](https://nestwallet.xyz/)
+- Twitter: [@nestwalletxyz](https://twitter.com/nestwalletxyz)
+- Features
+    - Create a Safe account with an email
+    - Browser extension bridge for Safes
+    - Email notifications
+    - In-progress (2023-07-13): Purchase crypto with credit cards, powered by Stripe
+- Tech: Uses the Safe SDK/API to interact with the Safe Singleton and Proxy
+
 #### Parcel
 
 - About: Payment operating system for teams
@@ -102,14 +124,14 @@ Apps
 - Community and support
     - Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
     - Blog: [mirror.xyz/utopialabs.eth](https://mirror.xyz/utopialabs.eth)
-- Use
+- Features
     - Offramp assets to bank accounts
         - Powered by [bridge.xyz](https://www.bridge.xyz)
         - [Introducing Off Ramps](https://mirror.xyz/utopialabs.eth/U02sqbb6mt9MDdjaykz2DGfDbiJZtF0gz2hSo7HLHNM)
-    - Accounting tools
-        - [How to manage your transactions and view your insights](https://utopia-labs.notion.site/How-to-manage-your-transactions-and-view-your-insights-7b13e55a3f0742ffb66d66eb4679114f)
-        - [Welcome, Bookkeeping.](https://mirror.xyz/utopialabs.eth/8Wrz2Y2FuE9klFh4sbmcw9ds5j6rhPt7VkHTTlSkFXY)
-        - [Introducing: Multi-Safe Organizations and Our Official Bid as Your Crypto Accounting Tool](https://mirror.xyz/utopialabs.eth/1QeX3L2IPUFGXJ5GINaUyi75DH2U0w9oRc5eT7XdDlM)
+    - Reports
+        - [How to manage your transactions and view your insights](https://utopia-labs.notion.site/How-to-manage-your-transactions-and-view-your-insights-7b13e55a3f0742ffb66d66eb4679114f) *by Utopia Labs*
+        - [Welcome, Bookkeeping.](https://mirror.xyz/utopialabs.eth/8Wrz2Y2FuE9klFh4sbmcw9ds5j6rhPt7VkHTTlSkFXY) *by Utopia Labs*
+        - [Introducing: Multi-Safe Organizations and Our Official Bid as Your Crypto Accounting Tool](https://mirror.xyz/utopialabs.eth/1QeX3L2IPUFGXJ5GINaUyi75DH2U0w9oRc5eT7XdDlM) *by Utopia Labs*
     - Layer 2 (L2) support: Arbitrum, Optimism, Polygon, Gnosis Chain, BNB Chain, Avalanche
 - Adoption: Gitcoin, SushiSwap, Badger, etc.
 - Investors: Paradigm, Kindred Ventures, Circle Ventures, Gusto, Coinbase Ventures, Infinity Ventures Crypto, Distributed Global, and Fourth Revolution Capital
