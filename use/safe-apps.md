@@ -125,9 +125,11 @@ Apps
     - Twitter: [@utopialabs_](https://twitter.com/utopialabs_)
     - Blog: [mirror.xyz/utopialabs.eth](https://mirror.xyz/utopialabs.eth)
 - Features
-    - Offramp assets to bank accounts
+    - Offramp assets to your bank account
         - Powered by [bridge.xyz](https://www.bridge.xyz)
         - [Introducing Off Ramps](https://mirror.xyz/utopialabs.eth/U02sqbb6mt9MDdjaykz2DGfDbiJZtF0gz2hSo7HLHNM)
+    - Make payments to any bank or business
+        - [@utopialabs_ Tweet 2023-07-20](https://twitter.com/utopialabs_/status/1682104692246212608)
     - Reports
         - [How to manage your transactions and view your insights](https://utopia-labs.notion.site/How-to-manage-your-transactions-and-view-your-insights-7b13e55a3f0742ffb66d66eb4679114f) *by Utopia Labs*
         - [Welcome, Bookkeeping.](https://mirror.xyz/utopialabs.eth/8Wrz2Y2FuE9klFh4sbmcw9ds5j6rhPt7VkHTTlSkFXY) *by Utopia Labs*
