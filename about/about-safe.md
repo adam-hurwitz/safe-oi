@@ -81,6 +81,15 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Yearn
 - etc.
 
+#### Similar solutions
+
+- Biconomy
+    - Site: [biconomy.io](https://www.biconomy.io/)
+    - Twitter: [@biconomy](https://twitter.com/biconomy)
+- ZeroDev
+    - Site: [zerodev.app](https://zerodev.app/)
+    - Twitter: [@zerodev_app](https://twitter.com/zerodev_app)
+
 #### Other
 
 - [Keeping your crypto SAFU with Gnosis Safe](https://www.youtube.com/watch?v=PKkTto5t8rY) *by Outlier Ventures 2020-12-15*
