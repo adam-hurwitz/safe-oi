@@ -164,6 +164,33 @@ Opportunities
     - Attribution of contributions (Similar to StackOverflow)
     - Useful to know what content is from the core team vs the community.
 
+## SAFE token usability
+
+#### SAFE staking
+
+- Feature access, security, and spam prevention
+- Examples
+    - Token curated registry (TCR)
+        - About
+            - Decentralized registry where token holders are mutually incentivized to maintain a high quality
+            - Move towards automation
+            - Requires additional data points other than tokens alone to determine a quality score to avoid gaming the system
+        - Registries
+            - Become a part of the Ecosystem Hub and update info
+            - Add a module
+    - Advanced features for teams, businesses, and individuals
+        - E.g. The Google Play and Apple App store’s create self-serve recurring tools and services like analytics, reviews, customer support for developers.
+        - Moving forward, instead of having centralized tools like with Google and Apple for fully integrated services (analytics, reviews, customer support, etc.), developers could choose from multiple services, not just ones Safe builds, with all accepting SAFE tokens.
+- Resources
+    - [Safe Token Value Alignment Program](https://forum.safe.global/t/safe-token-value-alignment-program/3766/2) *by Adam Hurwitz*
+    - [Overview of Token Curated Registries](https://republic.com/blog/crypto/overview-of-token-curated-registries) *by Republic*
+
+
+#### Value Alignment Program (VAP)
+
+- About: Agreement between SafeDAO and teams for a trade of SAFE tokens for a portion of the project/protocol/product's equity/revenue share/token
+- *See [Safe Token Value Alignment Program](https://forum.safe.global/t/safe-token-value-alignment-program/3766) by LongHash Ventures*
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
