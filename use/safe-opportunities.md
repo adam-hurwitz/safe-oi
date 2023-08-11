@@ -185,6 +185,12 @@ Opportunities
     - [Safe Token Value Alignment Program](https://forum.safe.global/t/safe-token-value-alignment-program/3766/2) *by Adam Hurwitz*
     - [Overview of Token Curated Registries](https://republic.com/blog/crypto/overview-of-token-curated-registries) *by Republic*
 
+#### Mobile
+
+- To be determined opportunities with decentralized mobile operating systems
+- ethOS: [ethosmobile.org](https://www.ethosmobile.org)
+- GrapheneOS: [grapheneos.org](https://grapheneos.org)
+- Saga: [solanamobile.com](https://solanamobile.com)
 
 #### Value Alignment Program (VAP)
 
