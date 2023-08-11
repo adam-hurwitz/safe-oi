@@ -197,6 +197,17 @@ Opportunities
 - About: Agreement between SafeDAO and teams for a trade of SAFE tokens for a portion of the project/protocol/product's equity/revenue share/token
 - *See [Safe Token Value Alignment Program](https://forum.safe.global/t/safe-token-value-alignment-program/3766) by LongHash Ventures*
 
+## Decentralization
+
+- Decentralized UX
+- Command line interface (CLI) tutorials
+    - Common use cases
+    - GitHub: [github.com/5afe/safe-cli](https://github.com/5afe/safe-cli)
+    - [Trustless interface](https://help.safe.global/en/articles/40866-trustless-interface) *by Safe*
+    - [Summoning a Decentralised Safe Registry](https://mirror.xyz/0013700.eth/HAxUoydAAvcEnygRvGsqecAhC1XcfcQlAy6x_htY3ZQ) *by Daoism Systems*
+- Alternative interfaces
+    - E.g. Multis: [multis.com](https://multis.com/)
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
