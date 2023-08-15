@@ -65,6 +65,16 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Validates transactions for the Safe account
 - Compatibility with externally owned accounts (EOAs) which have a private key to sign transactions, e.g. [EIP-1271](https://eips.ethereum.org/EIPS/eip-1271)
 
+# Safe protocol
+
+## About
+
+- Whitepaper: [Safe{Core} Protocol
+](https://docs.google.com/document/d/1y6jRyU6ty0VS0HbiiJrYXRJy5QFPZyH5Ymn2BftgtsU/edit#heading=h.1xlete5fb6vd)
+- FAQ: [Safe{Core} Protocol FAQ](https://safe-global.notion.site/Safe-Core-Protocol-FAQ-19cfbf4aee934bb0b439ec602d7bd43f)
+- Forum: [Safe{Core} Protocol Whitepaper](https://forum.safe.global/t/safe-core-protocol-whitepaper/3949)
+- Github: [Safe{Core} Protocol Specification](https://github.com/safe-global/safe-core-protocol-specs)
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>
