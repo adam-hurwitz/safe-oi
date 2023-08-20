@@ -1,7 +1,7 @@
 ---
-title: 🔰 Signing accounts
+title: 🔰 Safe signing accounts
 tags: safe
-description: Signing accounts
+description: Safe signing accounts
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 

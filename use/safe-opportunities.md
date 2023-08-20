@@ -208,6 +208,10 @@ Opportunities
 - Alternative interfaces
     - E.g. Multis: [multis.com](https://multis.com/)
 
+## Multichain
+
+- Open info: [hackmd.io/@safe/multichain](https://hackmd.io/@safe/multichain)
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>

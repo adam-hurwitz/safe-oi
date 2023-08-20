@@ -1,5 +1,5 @@
 ---
-title: 🔰 Architecture
+title: 🔰 Safe architecture
 tags: safe
 description: Safe account architecture
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
