@@ -10,11 +10,21 @@ Apps
 
 ## Sign-in with Safe
 
+#### Safe social accounts
+
+- About
+    - Social account creation and sign in
+    - Integrations: Google and Apple
+    - Built with Web3Auth
+        - Site: [web3auth.io](https://web3auth.io)
+    - Beta on Gnosis Chain
+    - *See [@safe Tweet 2023-08-09](https://twitter.com/safe/status/1689313162817093633)*
+
 #### SSX (Self-Sovereign Anything)
 
 - About
     - Individual signers login on behalf of individual/team/DAO Safes
-    - Site: [spruceid.com/ssx](https://spruceid.com/ssx)
+    - Site: [spruceid.com](https://spruceid.com)
 - Built by Spruce
     - Site: [spruceid.com](https://spruceid.com)
     - Twitter: [@SpruceID](https://twitter.com/spruceid)
@@ -23,6 +33,12 @@ Apps
 - Blog: [blog.spruceid.com/author/spruce](https://blog.spruceid.com/author/spruce)
 
 ## Coordination
+
+#### Castle
+
+- About: NFT management
+- Site: [castle.link](https://castle.link)
+- Twitter: [@CastleLinkHQ](https://twitter.com/CastleLinkHQ)
 
 #### Coinshift
 
