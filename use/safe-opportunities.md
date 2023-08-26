@@ -199,14 +199,7 @@ Opportunities
 
 ## Decentralization
 
-- Decentralized UX
-- Command line interface (CLI) tutorials
-    - Common use cases
-    - GitHub: [github.com/5afe/safe-cli](https://github.com/5afe/safe-cli)
-    - [Trustless interface](https://help.safe.global/en/articles/40866-trustless-interface) *by Safe*
-    - [Summoning a Decentralised Safe Registry](https://mirror.xyz/0013700.eth/HAxUoydAAvcEnygRvGsqecAhC1XcfcQlAy6x_htY3ZQ) *by Daoism Systems*
-- Alternative interfaces
-    - E.g. Multis: [multis.com](https://multis.com/)
+- Open info: [hackmd.io/@safe/decentralize](https://hackmd.io/@safe/decentralize)
 
 ## Multichain
 
