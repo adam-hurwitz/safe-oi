@@ -38,14 +38,23 @@ Useful features
 3. Show token balances automatically
     a. Cannot be handled with a simple RPC connection, it requires an index
     
-# Decentralizing Safe transaction service
+# Decentralizing Safe
 
-## Proof-of-concept (PoC)
+## Simple app for users
 
-- Minimalist UI
-- An IPFS hosted version could enable onchain signatures only
-- Or it could present them to the user for manual aggregation/import/export
-- Also useful deploy infrastructure on chains that doesn’t yet have Safe transaction service support
+- A working UI where users can use basic Safe account features if the main Safe Ecosystem Foundation hosted service is unavailable
+- E.g. Basic app hosted by IPFS
+    - Enables onchain approvals (signatures) only
+    - Or it could present approvals to the user for manual aggregation/import/export
+    - Also useful for deploying infrastructure on chains that don't yet have Safe transaction service support
+
+## More distributed backend service for builders
+
+- Alternative backend services for developers to build on that are not reliant on the Safe Ecosystem Foundation hosted service
+- E.g. Use Ceramic + ComposeDB to move towards a more distributed framework that also allows apps to perform a high amount of transactions
+    - [Summoning a Decentralised Safe Registry](https://mirror.xyz/0013700.eth/HAxUoydAAvcEnygRvGsqecAhC1XcfcQlAy6x_htY3ZQ) *by Daoism Systems*
+    - [Setting up a decentralized Safe registry with ComposeDB](https://daoismsystems.notion.site/Setting-up-a-decentralized-Safe-registry-with-ComposeDB-01aad3c49eba4f90a8648dcd83f9dd6e) *by Daoism Systems*
+    - [ceramic.network/composedb](https://ceramic.network/composedb)
 
 ## Risks
 
