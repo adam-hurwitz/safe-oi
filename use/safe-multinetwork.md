@@ -1,11 +1,11 @@
 ---
-title: 🔰 Safe multichain
+title: 🔰 Safe multinetwork
 tags: safe
-description: Safe multichain
+description: Safe multinetwork
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-<h1 style="text-align: center;">Multichain</h1>
+<h1 style="text-align: center;">Multinetwork</h1>
 
 # Counterfactual accounts
 

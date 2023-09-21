@@ -160,6 +160,26 @@ Apps
         - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
         - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
 
+#### ZenGuard
+
+- About
+    - Easily create new Safe accounts with social accounts
+    - Add custom features to existing Safe accounts
+- Site: [zenguard.xyz](https://zenguard.xyz)
+ - Social account creation and sign in
+    - Integrations: Google and Apple
+    - Built with Web3Auth
+        - Site: [web3auth.io](https://web3auth.io)
+- Plugin examples
+    - Session key
+    - Auto payment
+    - Recovery
+    - Two-factor authentication (2FA)
+    - Deadman switch
+    - Bill split
+    - Dollar cost average (DCA)
+    - Social recovery
+
 ## Messaging tools
 
 #### NinDAO

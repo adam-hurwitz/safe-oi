@@ -92,6 +92,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 #### Other
 
+- [Safe Media Kit](https://safe-global.notion.site/Safe-Media-Kit-35ce7ffc829c4bedbbf828464a1b7c00)
 - [Keeping your crypto SAFU with Gnosis Safe](https://www.youtube.com/watch?v=PKkTto5t8rY) *by Outlier Ventures 2020-12-15*
 - [Episode 94: Gnosis & Full Node with Friederike Ernst](https://www.zeroknowledge.fm/94) *by Zero Knowledge Podcast 2019-09-11*
 - Ethereum Name Service (ENS) domains

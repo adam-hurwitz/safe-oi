@@ -201,9 +201,9 @@ Opportunities
 
 - Open info: [hackmd.io/@safe/decentralize](https://hackmd.io/@safe/decentralize)
 
-## Multichain
+## Multinetwork
 
-- Open info: [hackmd.io/@safe/multichain](https://hackmd.io/@safe/multichain)
+- Open info: [hackmd.io/@safe/multinetwork](https://hackmd.io/@safe/multinetwork)
 
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 

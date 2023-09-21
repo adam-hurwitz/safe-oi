@@ -65,6 +65,20 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Validates transactions for the Safe account
 - Compatibility with externally owned accounts (EOAs) which have a private key to sign transactions, e.g. [EIP-1271](https://eips.ethereum.org/EIPS/eip-1271)
 
+# ERC-4337
+
+## About
+
+- Site: [eips.ethereum.org/EIPS/eip-4337](https://eips.ethereum.org/EIPS/eip-4337)
+- Creates a standard for smart accounts to customize verification
+- Uses a new transaction object and separate mempool
+
+## Resources
+
+- [Safe wallet adds 'ERC-4337' to boost account abstraction features](https://www.theblock.co/post/239386/safe-wallet-erc-4337-account-abstraction) *by The Block*
+- [Ethereum’s ERC-4337 Standard: Explained](https://www.ledger.com/academy/ethereum-erc-4337-standard-explained) *by Ledger*
+
+
 # Safe protocol
 
 ## About
