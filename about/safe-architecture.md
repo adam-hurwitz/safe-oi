@@ -73,6 +73,10 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Creates a standard for smart accounts to customize verification
 - Uses a new transaction object and separate mempool
 
+## Safe
+
+- [ERC-4337 integrations now supported in Safe{Core}’s Account Abstraction stack](https://safe.mirror.xyz/rjWPvQjH9XEC2bADp-9Q1ZEW675pMu41hWsoX5v0Ros) *by Safe*
+
 ## Resources
 
 - [Safe wallet adds 'ERC-4337' to boost account abstraction features](https://www.theblock.co/post/239386/safe-wallet-erc-4337-account-abstraction) *by The Block*

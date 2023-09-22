@@ -10,6 +10,11 @@ Contract versions
 
 *See GitHub [releases](https://github.com/safe-global/safe-contracts/releases)*
 
+#### 1.4.1
+
+- Improved support for new EIP, e.g. [EIP4337](https://eips.ethereum.org/EIPS/eip-4337)
+- *See [ERC-4337 integrations now supported in Safe{Core}’s Account Abstraction stack](https://safe.mirror.xyz/rjWPvQjH9XEC2bADp-9Q1ZEW675pMu41hWsoX5v0Ros) by Safe*
+
 #### 1.4.0
 
 - Improved support for new EIP, e.g. [EIP4337](https://eips.ethereum.org/EIPS/eip-4337)
