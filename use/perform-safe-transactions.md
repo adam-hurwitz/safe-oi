@@ -63,7 +63,10 @@ Perform transactions
 - Convert to [Uint256 format](https://docs.google.com/document/d/1pfGXa-DCOBQ6Ed7w1Q_XNaTtiUwuWRQSLgJ6vZ4v85I/edit#heading=h.ohamhurjxbk)
 - Research: Is it possible to execute CoW Swap trades with the Safe Transaction Builder using [CoW Swap's settlement](https://etherscan.io/address/0x9008D19f58AAbD9eD0D60971565AA8510560ab41#events) contract?
     - The settlement contract has a `swap` method
-    - This could be hard to do with the Transaction Builder since you'd likely need to input a static gas price and token prices, rather than taking the real time gas price and token market prices.
+        - This could be hard to do with the Transaction Builder since you'd likely need to input a static gas price and token prices, rather than taking the real time gas price and token market prices.
+    - Alternative: Use [dump.services](https://dump.services)
+        - Built by CoW Swap and Yearn.
+        - *See [@CoWSwap Tweet 2023-05-03](https://twitter.com/CoWSwap/status/1653761691442872330)*
 
 #### Spending approvals and limits
 
