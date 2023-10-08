@@ -93,7 +93,7 @@ Apps
 - Site: [pod.xyz](https://pod.xyz)
 - Twitter: [0xMetropolis](https://twitter.com/0xMetropolis)
 
-#### Multis
+#### Multis ([Major operational changes 2023-10](https://twitter.com/soona/status/1709701450866340271))
 
 - About
     - Checking accounts, corporate cards, and crypto access
@@ -134,7 +134,7 @@ Apps
 - Twitter: [@tallyxyz](https://twitter.com/tallyxyz)
 - ERC20 token or an NFT for membership and voting power
 
-#### Utopia Labs
+#### Utopia Labs ([Major operational changes 2023-10-02](https://twitter.com/0xkaito/status/1708924086922182936))
 
 - Site: [utopialabs.com](https://www.utopialabs.com/)
 - Community and support

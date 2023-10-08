@@ -61,12 +61,31 @@ Perform transactions
 - *See [Transaction Builder](https://help.safe.global/en/articles/40841-transaction-builder)*
 - Approve multiple transactions with one set of signatures.
 - Convert to [Uint256 format](https://docs.google.com/document/d/1pfGXa-DCOBQ6Ed7w1Q_XNaTtiUwuWRQSLgJ6vZ4v85I/edit#heading=h.ohamhurjxbk)
+
+#### Sell multiple assets
+
+- [dump.services](https://dump.services)
+    - Built by CoW Swap and Yearn.
+    - Features
+        - Sell multiple assets in an account at a selected quantity
+        - Choose which account to receive the sale proceeds
+    - *See [@CoWSwap Tweet 2023-05-03](https://twitter.com/CoWSwap/status/1653761691442872330)*
 - Research: Is it possible to execute CoW Swap trades with the Safe Transaction Builder using [CoW Swap's settlement](https://etherscan.io/address/0x9008D19f58AAbD9eD0D60971565AA8510560ab41#events) contract?
     - The settlement contract has a `swap` method
         - This could be hard to do with the Transaction Builder since you'd likely need to input a static gas price and token prices, rather than taking the real time gas price and token market prices.
-    - Alternative: Use [dump.services](https://dump.services)
-        - Built by CoW Swap and Yearn.
-        - *See [@CoWSwap Tweet 2023-05-03](https://twitter.com/CoWSwap/status/1653761691442872330)*
+
+#### Send to bank account
+
+- Ethereum
+    - Powered by [bridge.xyz](https://bridge.xyz)
+    - Implemented by Multis and Utopia Labs before they began pivoting their operations
+- Gnosis Chain
+    - Powered by Monerieum
+        - About: EU only (2023-10)
+        - Site: [monerium.com](https://monerium.com/)
+        - Twitter: [@monerium](https://twitter.com/monerium)
+- Research products for US users
+    - [@adamshurwitz Tweet 2023-10-08](https://twitter.com/adamshurwitz/status/1711086115866673270)
 
 #### Spending approvals and limits
 
