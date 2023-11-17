@@ -5,12 +5,16 @@ description: Safe apps
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-Apps
-===
+<h1 style="text-align: center;">🔰 Safe apps</h1>
 
-## Sign-in with Safe
+# Safe Ecosystem Hub
 
-#### Safe social accounts
+- Site: [safe.global/ecosystem](https://safe.global/ecosystem)
+- Contribute: [Adding projects](https://github.com/safe-global/safe-ecosystem-database#adding-projects)
+
+# Sign-in with Safe
+
+## Safe social accounts
 
 - About
     - Social account creation and sign in
@@ -20,7 +24,7 @@ Apps
     - Beta on Gnosis Chain
     - *See [@safe Tweet 2023-08-09](https://twitter.com/safe/status/1689313162817093633)*
 
-#### SSX (Self-Sovereign Anything)
+## SSX (Self-Sovereign Anything)
 
 - About
     - Individual signers login on behalf of individual/team/DAO Safes
@@ -32,15 +36,15 @@ Apps
     - Twitter: [@signinwitheth](https://twitter.com/signinwitheth)
 - Blog: [blog.spruceid.com/author/spruce](https://blog.spruceid.com/author/spruce)
 
-## Coordination
+# Coordination
 
-#### Castle
+## Castle
 
 - About: NFT management
 - Site: [castle.link](https://castle.link)
 - Twitter: [@CastleLinkHQ](https://twitter.com/CastleLinkHQ)
 
-#### Coinshift
+## Coinshift
 
 - About: Treasury management and reporting
 - Site: [coinshift.xyz](https://coinshift.xyz/)
@@ -51,7 +55,7 @@ Apps
     - Using TaxBit APIs
     - [Feature Spotlight: Portfolio History](https://blog.coinshift.xyz/portfolio-history) *by Coinshift*
 
-#### den
+## den
 
 - About: Coordination for teams
 - Site: [onchainden.com](https://www.onchainden.com)
@@ -73,19 +77,19 @@ Apps
     - [Den Raises $2.8M to Help Teams Execute Onchain Transactions 10X Faster](https://www.onchainden.com/blog/fundraise) *by Den 2023-02-23*
     - [Crypto Wallet Startup Den Gets $2.8M in Seed Funding Led by IDEO CoLab Ventures](https://www.coindesk.com/business/2023/02/22/crypto-wallet-startup-den-gets-28m-in-seed-funding-led-by-ideo-colab-ventures/) *by CoinDesk 2023-02-23*
 
-#### Firm
+## Firm
 
 - About: Coordination for teams
 - Site: [firm.org](https://firm.org/)
 - Twitter: [@firm](https://twitter.com/firm)
 
-#### Karma
+## Karma
 
 - About: User analytics for DAOs
 - Site: [showkarma.xyz](https://www.showkarma.xyz/)
 - Twitter: [@karmahq_](https://twitter.com/karmahq_)
 
-#### Metropolis
+## Metropolis
 
 - About
     - Explorer for account access controls
@@ -93,7 +97,7 @@ Apps
 - Site: [pod.xyz](https://pod.xyz)
 - Twitter: [0xMetropolis](https://twitter.com/0xMetropolis)
 
-#### Multis ([Major operational changes 2023-10](https://twitter.com/soona/status/1709701450866340271))
+## Multis ([Major operational changes 2023-10](https://twitter.com/soona/status/1709701450866340271))
 
 - About
     - Checking accounts, corporate cards, and crypto access
@@ -102,7 +106,7 @@ Apps
 - Site: [multis.co](https://multis.co)
 - Twitter: [@multisHQ](https://twitter.com/multishq)
 
-#### Nest
+## Nest
 
 - Site: [nestwallet.xyz](https://nestwallet.xyz/)
 - Twitter: [@nestwalletxyz](https://twitter.com/nestwalletxyz)
@@ -113,20 +117,20 @@ Apps
     - In-progress (2023-07-13): Purchase crypto with credit cards, powered by Stripe
 - Tech: Uses the Safe SDK/API to interact with the Safe Singleton and Proxy
 
-#### Parcel
+## Parcel
 
 - About: Payment operating system for teams
 - Site: [parcel.money](https://parcel.money)
 - Adoption: Bankless DAO, Index Coop, ENS DAO, Developer DAO, Audio Grants Committee, dydx, Forefront
 - Investors: Dragonfly Capital, Consensys, Sandeep Nailwal (Polygon co-founder), and etc.
 
-#### Screen
+## Screen
 
 - About: Optional custodial recovery and fraud detection
 - Site: [screenprotocol.io](https://screenprotocol.io)
 - Twitter: [@screenprotocol](https://twitter.com/screenprotocol)
 
-#### Tally
+## Tally
 
 - About: On-chain governance, e.g., voting, spending, and permissioning
 - Site: [tally.xyz](https://www.tally.xyz)
@@ -134,7 +138,7 @@ Apps
 - Twitter: [@tallyxyz](https://twitter.com/tallyxyz)
 - ERC20 token or an NFT for membership and voting power
 
-#### Utopia Labs ([Major operational changes 2023-10-02](https://twitter.com/0xkaito/status/1708924086922182936))
+## Utopia Labs ([Major operational changes 2023-10-02](https://twitter.com/0xkaito/status/1708924086922182936))
 
 - Site: [utopialabs.com](https://www.utopialabs.com/)
 - Community and support
@@ -160,7 +164,7 @@ Apps
         - [NFT backed by Pussy Riot member raises $6.7 million for Ukraine](https://www.cnn.com/style/article/ukrainedao-pussy-riot-nft-flag-war-fundraising/index.html) *by CNN 2022-03-02*
         - [@Ukraine_DAO Tweet 2022-06-25](https://twitter.com/Ukraine_DAO/status/1540845735297572864)
 
-#### ZenGuard
+## ZenGuard
 
 - About
     - Easily create new Safe accounts with social accounts
@@ -180,9 +184,9 @@ Apps
     - Dollar cost average (DCA)
     - Social recovery
 
-## Messaging tools
+# Messaging tools
 
-#### NinDAO
+## NinDAO
 
 - About: Create a safe from a Telegram chat.
 - Site: [nindao.xyz](https://nindao.xyz)
@@ -190,9 +194,9 @@ Apps
 - Built by Daoism Systems
     - Site: [daoism.systems](https://daoism.systems)
 
-## Tax and accounting
+# Tax and accounting
 
-#### Bitwave
+## Bitwave
 
 - About: Tax and accounting for teams
 - Site: [bitwave.io](https://www.bitwave.io)
