@@ -5,10 +5,9 @@ description: Safe opportunities
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-Opportunities
-===
+<h1 style="text-align: center;">Safe opportunities</h1>
 
-## Security
+# Security
 
 #### Token approval management (P1)
 
@@ -65,7 +64,7 @@ Opportunities
 - Show cosigner info on the hardware devices directly for users to verify prior to signing a transaction.
 
 
-## UX
+# UX
 
 #### Improved WalletConnect support (P0)
 
@@ -148,7 +147,7 @@ Opportunities
 - Potential security concerns since the software is the trusted source of transaction information instead of a hardware device to read information off of.
 
 
-## Governance
+# Governance
 
 #### Structure of SafeDAO<>Safe Ecosystem Foundation (SEF) (P0)
 
@@ -164,7 +163,7 @@ Opportunities
     - Attribution of contributions (Similar to StackOverflow)
     - Useful to know what content is from the core team vs the community.
 
-## SAFE token usability
+# SAFE token usability
 
 #### SAFE staking
 
@@ -197,11 +196,11 @@ Opportunities
 - About: Agreement between SafeDAO and teams for a trade of SAFE tokens for a portion of the project/protocol/product's equity/revenue share/token
 - *See [Safe Token Value Alignment Program](https://forum.safe.global/t/safe-token-value-alignment-program/3766) by LongHash Ventures*
 
-## Decentralization
+# Decentralization
 
-- Open info: [hackmd.io/@safe/decentralize](https://hackmd.io/@safe/decentralize)
+- [Decentralizing Safe](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Fdecentralize)
 
-## Multinetwork
+# Multinetwork
 
 - Open info: [hackmd.io/@safe/multinetwork](https://hackmd.io/@safe/multinetwork)
 

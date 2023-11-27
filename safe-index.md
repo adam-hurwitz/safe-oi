@@ -21,7 +21,7 @@ Use
 - [Setup](https://hackmd.io/@safe/setup)
 - [Perform transactions](https://hackmd.io/@safe/perform-transactions)
 - [🔰 Safe apps](https://hackmd.io/@safe/apps)
-- [Opportunities](https://hackmd.io/@safe/opportunities)
+- [🔰 Safe opportunities](https://hackmd.io/@safe/opportunities)
 
 Compatibility
 ---
@@ -34,3 +34,4 @@ Security
 
 - [Verify transactions](https://hackmd.io/@safe/verify-transactions)
 - [Backup and recovery](https://hackmd.io/@safe/backup-and-recovery)
+- [🔰 Decentralizing Safe](https://hackmd.io/@safe/decentralize)
