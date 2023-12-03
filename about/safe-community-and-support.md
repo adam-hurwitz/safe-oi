@@ -10,7 +10,7 @@ Community and support
 
 #### Community
 
-- *See [Safe Contact Us](https://docs.safe.global/#contact-us)*
+- [Safe Contact us](https://docs.safe.global/miscellaneous/contact-us)
 - [SafeDAO](https://hackmd.io/@safedao/oi)
 
 #### Support

@@ -5,15 +5,17 @@ description: Verify Safe transactions
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-Verify transactions
-===
+<h1 style="text-align: center;">Verify Safe transactions</h1>
 
 ## About
 
 - Verify transactions (txns) before approval.
-- Ensure the data showing on Safe is the same as on the hardware wallet(s).
-- Verifies off-chain confirmations made as part of a multisig account.
-- [What is the Safe transaction hash (safeTxHash)?](https://help.safe.global/en/articles/5246870-what-is-the-safe-transaction-hash-safetxhash)
+- Ensure the data showing on Safe is the same as on the hardware account(s).
+- Using Safe approval accounts for multi-factor authentication (MFA)
+    - It's best to verify and approve transactions using multiple devices
+    - *See [Increasing security of “multifactor” (MFA) Safe approval accounts 🔑](https://forum.safe.global/t/increasing-security-of-multifactor-safe-approval-accounts/4453) on SafeDAO forum*
+- Verifies off-chain confirmations made as part of a multisignature account.
+- [What is the Safe transaction hash (safeTxHash)?](https://help.safe.global/en/?q=What+is+the+Safe+transaction+hash+%28safeTxHash%29%3F)
     - Unique code generated for a transaction
     - Specific to the Safe protocol
 
