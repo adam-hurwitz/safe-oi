@@ -204,6 +204,10 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Adoption: Opensea, Compound, and Polygon 
 - *See [Bitwave raises $15 million for crypto-focused tax and accounting platform](https://www.theblock.co/post/192648/bitwave-raises-15-million-for-crypto-focused-tax-and-accounting-platform) by The Block 2022-12-06*
 
+# Multinetwork Safe
+
+- [Multinetowrk Safe](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Fmultinetwork)
+
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
 <style>

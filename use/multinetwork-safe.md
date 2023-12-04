@@ -1,11 +1,15 @@
 ---
-title: 🔰 Safe multinetwork
+title: 🔰 Multinetwork Safe
 tags: safe
-description: Safe multinetwork
+description: Safe accounts that can be created and managed across multiple protocol networks
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-<h1 style="text-align: center;">Multinetwork</h1>
+<h1 style="text-align: center;">Multinetwork Safe</h1>
+
+# About
+
+- Safe accounts that can be created and managed across multiple protocol networks, e.g. Ethereum mainnet, Optimism, Arbitrum, Polygon, etc.
 
 # Counterfactual accounts
 
@@ -115,6 +119,28 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Downside
     - Currently expensive cross network proofs
     - Not easily compatible with ERC-4337: Does not support cross contract reading of mutable objects during validation
+
+## Research
+
+#### Wonderland
+
+- Site: [defi.sucks](https://defi.sucks/)
+- Twitter: [@DeFi_Wonderland](https://twitter.com/DeFi_Wonderland)
+- About: Researching multinetwork Safe accounts powered by proofs
+
+# Cross-chain interoperability protocol (CCIP)
+
+## About
+
+- Site: [chain.link/cross-chain](https://chain.link/cross-chain)
+- Chainlink's network for sharing data across protocol networks
+
+## Apps
+
+#### Klaster
+
+- Site: [klaster.io](https://klaster.io)
+- Twitter: [@klaster_io](https://twitter.com/klaster_io)
 
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 

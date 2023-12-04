@@ -202,7 +202,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 # Multinetwork
 
-- Open info: [hackmd.io/@safe/multinetwork](https://hackmd.io/@safe/multinetwork)
+- [Multinetwork Safe](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Fmultinetwork)
 
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 

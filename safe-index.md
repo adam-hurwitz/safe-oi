@@ -21,6 +21,7 @@ Use
 - [Setup](https://hackmd.io/@safe/setup)
 - [Perform transactions](https://hackmd.io/@safe/perform-transactions)
 - [🔰 Safe apps](https://hackmd.io/@safe/apps)
+- [🔰 Multinetwork Safe](https://hackmd.io/@safe/multinetwork)
 - [🔰 Safe opportunities](https://hackmd.io/@safe/opportunities)
 
 Compatibility
