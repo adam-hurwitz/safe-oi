@@ -66,18 +66,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 # UX
 
-#### Improved WalletConnect support (P0)
-
-- MetaMask
-    - Sign with the desktop app using WalletConnect: [Connect external signer key](https://help.safe.global/en/articles/5335651-connect-external-signer-key)
-    - Currently available on Safe web app
-
-#### Connect external signer key with Android (P1)
-
-- Currently only available for iOS
-- [Connect external signer key](https://help.safe.global/en/articles/5335651-connect-external-signer-key)
-
-#### Multi-chain (MC) support (P1)
+#### Multinetwork support (P1)
 
 - *See [How can a Safe hold asset on multiple chains?](https://forum.gnosis-safe.io/t/how-can-a-safe-hold-asset-on-multiple-chains/2242) on Safe forum 2023-01-03*
 - Filters
@@ -98,7 +87,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Address Book
     - Apps
     - Settings
-- Multi-chain products
+- Multinetwork products
     - [portfolio.metamask.io](https://portfolio.metamask.io/)
     - [app.taxbit.com](https://app.taxbit.com/)
 
