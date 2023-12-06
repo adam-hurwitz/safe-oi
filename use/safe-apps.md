@@ -111,6 +111,10 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Site: [nestwallet.xyz](https://nestwallet.xyz/)
 - Twitter: [@nestwalletxyz](https://twitter.com/nestwalletxyz)
 - Features
+    - [Multi-factor authentication (MFA)](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Fverify-transactions#Multi-factor-authentication-MFA) across web and mobile
+        - Verify action details on mobile
+        - Approve and confirm actions onchain on mobile
+        - These upgrades add a layer of security by having multiple devices to fully interact with Safe rather than relying on 1 source of truth from the web app
     - Create a Safe account with an email
     - Browser extension bridge for Safes
     - Email notifications
