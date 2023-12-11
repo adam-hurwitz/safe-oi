@@ -14,15 +14,30 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 # Sign-in with Safe
 
-## Safe social accounts
+## About
+
+- Social account creation and sign in
+- E.g. Google, Apple, Facebook, and Twitter
+
+## SafeAuth
 
 - About
-    - Social account creation and sign in
-    - Integrations: Google and Apple
-    - Built with Web3Auth
-        - Site: [web3auth.io](https://web3auth.io)
-    - Beta on Gnosis Chain
-    - *See [@safe Tweet 2023-08-09](https://twitter.com/safe/status/1689313162817093633)*
+    - Safe and social login accounts are compatible across all apps that use SafeAuth
+- Resources
+    - [Documentation](https://docs.safe.global/safe-core-aa-sdk/auth-kit/guides/safe-auth)
+    - [Safe + Web3Auth = SafeAuth: Portable Safe Accounts with social login](https://safe.mirror.xyz/WKxK5FENvkT8BjpowJQAhokYzb22438zUCG3wUSWvjc) *by Safe*
+- To research
+    - Web3Auth doesn't have the same level of Safe compatibility with accounts across apps
+- Opportunity
+    - Compatibility with Yubikeys: [@adamshurwitz Tweet 2023-12-11](https://twitter.com/adamshurwitz/status/1734258723953004844)
+
+## Web3Auth
+
+- Site: [web3auth.io](https://web3auth.io)
+- About
+    - Uses multi-party computation (MPC)
+    - Safe account beta on Gnosis Chain
+- *See [@safe Tweet 2023-08-09](https://twitter.com/safe/status/1689313162817093633)*
 
 ## SSX (Self-Sovereign Anything)
 
