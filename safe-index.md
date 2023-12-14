@@ -34,5 +34,5 @@ Security
 ---
 
 - [🔰 Verify Safe transactions](https://hackmd.io/@safe/verify-transactions)
-- [Backup and recovery](https://hackmd.io/@safe/backup-and-recovery)
+- [🔰 Safe backup and recovery](https://hackmd.io/@safe/backup-and-recovery)
 - [🔰 Decentralizing Safe](https://hackmd.io/@safe/decentralize)

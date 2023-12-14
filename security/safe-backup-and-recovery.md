@@ -5,18 +5,48 @@ description: Safe backup and recovery
 image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ---
 
-Backup and recovery
-===
+<h1 style="text-align: center;">Backup and recovery</h1>
+
+# Safe recovery hub
+
+#### About
+
+- Marketplace for Safe account recovery options
+- Built as a Safe module
+- *See [Introducing Safe{RecoveryHub} - A new crypto wallet recovery ecosystem launching with Sygnum and Coincover](https://safe.mirror.xyz/WxKSxD9J1bRI-SDOuDvAAIezwVrvWWkpuwuzcLDPSmk) by Safe*
+
+#### Types of recovery
+
+- Social recovery/self-custody: Set other accounts to be able to recover your account
+- Custodial recovery: Provide an organization the ability to provide partial or full recovery
+- Approval threshold recovery: In-progress (2023-12-14)
+    - Set a threshold of approvals from specific accounts required for recovery
+    - *See [@SchorLukas Tweet 2023-12-07](https://twitter.com/SchorLukas/status/1732724892997472320)*
+- Hybrid recovery: A mix of the above recovery options
+
+#### Features
+
+- Review window
+    - Set a time-lock, period of time it takes for the recovery process to finalize
+    - The original owner can cancel the recovery during this time period
+- Transaction expiry
+    - The period of time the recoverer has to finalize the recovery after the review window
+    - Default is infinite
+- Set a new owner
+    - Set by the recoverer after the recovery action is finalized
+
+# Manual backup
 
 ## Steps
 
 1. Save [information](#Information-to-save) offline with multiple redundancies.
 2. Test the recovery process.
+ 
     a. Setup
     1. Use a new wallet addresses that will only be used for testing.
     2. Use a low amount of funds.
     
-    b. Optional interoperability test
+    b. Optional compatibility test
     1. Swap the seed phrases between signing accounts/devices when going through the recovery process.
     2. You may need the original derivation path(s) for the wallet addresses.
 3. Verify the cosigners/owners have the expected address.
@@ -33,7 +63,7 @@ Backup and recovery
     - Safe account address
         - This can be found in the transaction history in a worst-case.
 
-## Without the Safe team
+# Without the Safe apps
 
 #### About
 
