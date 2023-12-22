@@ -54,11 +54,30 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - *Gnosis Safe contracts that are or have been previously deployed via Gnosis interfaces, including the mobile app and the web interface at gnosis-safe.io, are not affected by this deployment attack vector.*
 - [Gnosis Multisig Wallet Audit](https://blog.openzeppelin.com/gnosis-multisig-wallet-audit-d702ff0e2b1e/) *by OpenZeppelin 2018-03-06*
 
+# Analytics
+
+#### Dune
+
+- Site: [dune.com/safe](https://dune.com/safe)
+
+#### blocktorch
+
+- Site (Beta 2023-12-22): [beta.blocktorch.xyz/account-abstraction](https://beta.blocktorch.xyz/account-abstraction)
+- About: View Safe account action details, e.g., Modules and Guards, Callers, Safe version, intents, fees, and traces
+
+# Similar solutions
+
+#### Biconomy
+
+- Site: [biconomy.io](https://www.biconomy.io/)
+- X: [@biconomy](https://twitter.com/biconomy)
+
+#### ZeroDev
+
+- Site: [zerodev.app](https://zerodev.app/)
+- X: [@zerodev_app](https://twitter.com/zerodev_app)
+
 # Related information
-
-#### Usage data
-
-- [dune.com/safe](https://dune.com/safe)
 
 #### Investors
 
@@ -80,15 +99,6 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Synthetix
 - Yearn
 - etc.
-
-#### Similar solutions
-
-- Biconomy
-    - Site: [biconomy.io](https://www.biconomy.io/)
-    - Twitter: [@biconomy](https://twitter.com/biconomy)
-- ZeroDev
-    - Site: [zerodev.app](https://zerodev.app/)
-    - Twitter: [@zerodev_app](https://twitter.com/zerodev_app)
 
 #### Other
 
