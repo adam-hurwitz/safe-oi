@@ -18,25 +18,19 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 ## About
 
 - It's best to verify and approve transactions using multiple devices
-- Use both the Safe web and mobile apps to approve actions
-- E.g. Approve on web with software account (MetaMask) and on mobile with hardware account (Ledger)
+- Use both the Safe web and mobile apps to approve and finalize (Execute) actions
 
 ## Opportunties
 
 #### Connect external approval accounts on Android (P0)
 
-- This is essential to approve actions across multiple devices for security
+- This is essential to approve and finalize (Execute) actions across multiple devices for security
 - E.g. Approve on web with hardware account (Ledger) and on mobile with software account (MetaMask) or another account through WalletConnect
 - Improved security compared to "Importing existing owner key"    
     - Separates concerns between the Safe approval UX on web and mobile and the software account's private key, e.g. MetaMask
     - Reduces the exposure of the software account, e.g. MetaMask, being shared across multiple apps
 - Currently only available for iOS with WalletConnect
-
-#### Finalize actions in the Safe mobile app (P1)
-
-- Finalize (“execute”) fully confirmed actions in Safe’s mobile apps
-
-![signal-2023-12-05-114335](https://hackmd.io/_uploads/rJvc9b6Sp.jpg =50%x)
+- Currently only imported or approval accounts created within the Safe mobile app can finalize (Execute) actions onchain
 
 ## Resources
 
