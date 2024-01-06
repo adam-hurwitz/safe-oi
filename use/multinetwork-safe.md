@@ -49,11 +49,12 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - ENS to link all associated network addresses
     - ENS supports [multichain address resolution](https://docs.ens.domains/ens-improvement-proposals/ensip-11-evmchain-address-resolution)
 
-# Arbitrary message bridge (AMB)
+# Bridging
 
 ## About
 
 - *See [How can a Safe hold asset on multiple chains?](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242) by Martin Köppelmann on Safe forum*
+- Arbitrary message bridge (AMB)
 - Network controls actions on any network that is connected via an Arbitrary message bridge (AMB)
 - Bridge sends messages across 2 accounts on 2 different networks to each other
 - Relies on bridge security which is a single point of failure
@@ -85,11 +86,12 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Site: [peanut.to](https://peanut.to)
     - [A new primitive to butter web3](https://peanutprotocol.notion.site/A-new-primitive-to-butter-web3-ac9260237d3f4075bf6e87a27912e65f)
 
-# Keystore contract
+# Proofs
 
 ## About
 
-- *See [Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.ca/general/2023/06/20/deeperdive.html) by Vitalik Buterin*
+- *See [Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.eth.limo/general/2023/06/20/deeperdive.html) by Vitalik Buterin*
+- Uses keystore contracts between networks
 - The user has a main account on a layer 1 (L1) or layer 2 (L2) that manages all accounts
     - Verification key for accounts across all networks used, i.e. Action approval key
     - Rules for changing the key, e.g. Social recovery
@@ -108,7 +110,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Limited need for potentially expensive cross network proofs
 - Downsides
     - Potentially expensive onchain account key change transactions
-    - Lack of privacy because accounts can be linked publicly using the proof timestamps: [Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.ca/general/2023/06/20/deeperdive.html) > [Preserving privacy](https://vitalik.ca/general/2023/06/20/deeperdive.html#preserving-privacy) *by Vitalik Buterin*
+    - Lack of privacy because accounts can be linked publicly using the proof timestamps: [Deeper dive on cross-L2 reading for wallets and other use cases > Preserving privacy](https://vitalik.eth.limo/general/2023/06/20/deeperdive.html#preserving-privacy) *by Vitalik Buterin*
 
 ### Heavy – Verify every action
 
@@ -125,7 +127,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### Wonderland
 
 - Site: [defi.sucks](https://defi.sucks/)
-- Twitter: [@DeFi_Wonderland](https://twitter.com/DeFi_Wonderland)
+- X: [@DeFi_Wonderland](https://twitter.com/DeFi_Wonderland)
 - About: Researching multinetwork Safe accounts powered by proofs
 
 # Cross-chain interoperability protocol (CCIP)
@@ -140,7 +142,31 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### Klaster
 
 - Site: [klaster.io](https://klaster.io)
-- Twitter: [@klaster_io](https://twitter.com/klaster_io)
+- X: [@klaster_io](https://twitter.com/klaster_io)
+
+#### Unwallet
+
+- Site: [unwallet.me](https://unwallet.me)
+- About
+    - Focuses on biometric approvals, i.e. Face and fingerprint
+    - Powered by CCIP and ENS domains
+    - Built at and the winners of December 2023 Chainlink hackathon: [Announcing the Winners From Constellation: A Chainlink Hackathon](https://blog.chain.link/constellation-hackathon-winners/) *by Chainlink*
+- X: [@unwallet_me](https://twitter.com/unwallet_me)
+- Opportunities
+    - Backup passkey
+    - Add approval accounts, e.g. Hardware device, browser, or mobile app
+    - Firefox browser support
+    - Yubico Yubikey support
+
+
+# Undefined
+
+#### smol
+
+- Site: [smold.app](https://smold.app/)
+- App: [multisafe.app](https://multisafe.app/safe)
+- About: Use the same Safe account address across multiple networks
+- X: [@smoldapp](https://twitter.com/smoldapp)
 
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
