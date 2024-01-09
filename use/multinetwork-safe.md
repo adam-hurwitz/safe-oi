@@ -17,7 +17,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Can still receive and store assets
 - Used for externally owned accounts (EOAs) and smart contract accounts
 
-# Externally owned accounts (EOAs) vs Smart contract accounts
+# Externally owned accounts vs Smart contract accounts
 
 *See [Account Abstraction in a Multichain Landscape - Part 1: Addresses](https://safe.mirror.xyz/4GcGAOFno-suTCjBewiYH4k4yXPDdIukC5woO5Bjc4w) by Safe*
 
@@ -30,6 +30,8 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 ## Smart contract accounts
 
+#### About
+
 - Each account is associated to a specific network
 - Actions on each network are independent of each other
     - E.g. Adding or removing an an approval account on a Safe account
@@ -39,6 +41,14 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Network bridging complexity
     - User management complexity
     - These issues arise when using counterfactual accounts to create accounts with the same address: Created using the Ethereum virtual machine (EVM) [counterfactual deployment (CREATE2)](https://docs.openzeppelin.com/cli/2.7/deploying-with-create2) opcode
+
+#### Apps
+
+- smol
+    - Site: [smold.app](https://smold.app/)
+    - App: [multisafe.app](https://multisafe.app/safe)
+    - About: Use the same Safe account address across multiple networks
+    - X: [@smoldapp](https://twitter.com/smoldapp)
 
 # Account identification
 
@@ -144,6 +154,8 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Site: [klaster.io](https://klaster.io)
 - X: [@klaster_io](https://twitter.com/klaster_io)
 
+# Safe alternatives
+
 #### Unwallet
 
 - Site: [unwallet.me](https://unwallet.me)
@@ -157,16 +169,6 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Add approval accounts, e.g. Hardware device, browser, or mobile app
     - Firefox browser support
     - Yubico Yubikey support
-
-
-# Undefined
-
-#### smol
-
-- Site: [smold.app](https://smold.app/)
-- App: [multisafe.app](https://multisafe.app/safe)
-- About: Use the same Safe account address across multiple networks
-- X: [@smoldapp](https://twitter.com/smoldapp)
 
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
 
