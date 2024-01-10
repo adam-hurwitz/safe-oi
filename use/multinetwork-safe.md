@@ -11,8 +11,9 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 - Safe accounts that can be created and managed across multiple protocol networks, e.g. Ethereum mainnet, Optimism, Arbitrum, Polygon, etc.
 
-# Counterfactual accounts
+# Offchain accounts
 
+- Aka Counterfactual accounts
 - Accounts that have not been initialized onchain, i.e. There is no onchain activity
 - Can still receive and store assets
 - Used for externally owned accounts (EOAs) and smart contract accounts
@@ -30,27 +31,31 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 ## Smart contract accounts
 
-#### About
+### About
 
+- Safe is a smart contract account
 - Each account is associated to a specific network
 - Actions on each network are independent of each other
     - E.g. Adding or removing an an approval account on a Safe account
-- Downsides
-    - Not possible to have the same address on non EVM networks
-    - Assets can mistakenly be sent to the wrong network
-    - Network bridging complexity
-    - User management complexity
-    - These issues arise when using counterfactual accounts to create accounts with the same address: Created using the Ethereum virtual machine (EVM) [counterfactual deployment (CREATE2)](https://docs.openzeppelin.com/cli/2.7/deploying-with-create2) opcode
 
-#### Apps
+### Downsides
 
-- smol
-    - Site: [smold.app](https://smold.app/)
-    - App: [multisafe.app](https://multisafe.app/safe)
-    - About: Use the same Safe account address across multiple networks
-    - X: [@smoldapp](https://twitter.com/smoldapp)
+- Not possible to have the same address on non EVM networks
+- Assets can mistakenly be sent to the wrong network
+- Network bridging complexity
+- User management complexity
+- These issues arise when using counterfactual accounts to create accounts with the same address: Created using the Ethereum virtual machine (EVM) [counterfactual deployment (CREATE2)](https://docs.openzeppelin.com/cli/2.7/deploying-with-create2) opcode
 
-# Account identification
+### Apps
+
+#### smol
+
+- Site: [smold.app](https://smold.app/)
+- App: [multisafe.app](https://multisafe.app/safe)
+- About: Use the same Safe account address across multiple networks
+- X: [@smoldapp](https://twitter.com/smoldapp)
+
+# Identification accounts
 
 - Network specific IDs
     - Safe accounts have a network specific ID prefixed to each address ([ERC-3770](https://eips.ethereum.org/EIPS/eip-3770))
@@ -59,7 +64,7 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - ENS to link all associated network addresses
     - ENS supports [multichain address resolution](https://docs.ens.domains/ens-improvement-proposals/ensip-11-evmchain-address-resolution)
 
-# Bridging
+# Bridging accounts
 
 ## About
 
@@ -80,23 +85,27 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
     - Saves spending gas on the "main" network
     - Reduce complexity of paying for transaction fees on multiple networks
 
-## Hashi
+## Apps
+
+#### Hashi
 
 - *See [Safe on Hashi](https://www.gnosis.io/blog/safe-on-hashi) by Gnosis*
 - Created by Gnosis as a [Safe module](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Farchitecture#Pluginsmodules)
 - Creates a main Safe that can control secondary Safes on other networks
 - Built prototypes for both [push and pull strategies](#Push-vs-Pull-model)
 
-## Deposit and withdrawal model
+#### Peanut Protocol
 
-- *See [Hugo Montenegro's response](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242/19?u=adamhurwitz.eth) to [How can a Safe hold asset on multiple chains?](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242) on Safe forum*
-- The account on the "main" network makes a deposit protected by a secret key
-- An account on another network makes a withdrawal using the secret key
-- E.g. Peanut Protocol
-    - Site: [peanut.to](https://peanut.to)
+- Site: [peanut.to](https://peanut.to)
+- About
+    - Uses a deposit and withdrawal model
+    - The account on the "main" network makes a deposit protected by a secret key
+    - An account on another network makes a withdrawal using the secret key
+- Resources
+    - [Hugo Montenegro's response](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242/19?u=adamhurwitz.eth) to [How can a Safe hold asset on multiple chains?](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242) *on Safe forum*
     - [A new primitive to butter web3](https://peanutprotocol.notion.site/A-new-primitive-to-butter-web3-ac9260237d3f4075bf6e87a27912e65f)
 
-# Proofs
+# Proof accounts
 
 ## About
 
@@ -137,10 +146,12 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### Wonderland
 
 - Site: [defi.sucks](https://defi.sucks/)
-- X: [@DeFi_Wonderland](https://twitter.com/DeFi_Wonderland)
 - About: Researching multinetwork Safe accounts powered by proofs
+- [The current state of storage proofs](https://defi.sucks/insights/current-state-of-storage-proofs)
+    - GitHub: [github.com/defi-wonderland/safe-liveness](https://github.com/defi-wonderland/safe-liveness)
+- X: [@DeFi_Wonderland](https://twitter.com/DeFi_Wonderland)
 
-# Cross-chain interoperability protocol (CCIP)
+# Cross-chain interoperability protocol (CCIP) accounts
 
 ## About
 
@@ -152,9 +163,24 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### Klaster
 
 - Site: [klaster.io](https://klaster.io)
+- Features
+    - Create accounts used across multiple networks from an existing Safe account
+    - The Klaster account creates a main account that manages multiple networks
+    - The main account can be from any supported network
+        - The main account is created from an existing Safe on the same network
+    - Create multiple sub-accounts for different uses from the same main account
+        - Approval accounts only need to be updated once from the main account
+    - Lower transaction (txn) fees (In-progress 2024-01-09)
+        - Lower gas fees by creating an intent from the main Klaster account that is finalized on a layer 2 (L2)
+- To research
+    - CCIP network security and decentralization
+        - The number of validators
+        - Geographical distribution of validators
+        - Technical requirements of validators
+        - Profitability: *Fee revenue earned - Operating costs*
 - X: [@klaster_io](https://twitter.com/klaster_io)
 
-# Safe alternatives
+# Safe alternative accounts
 
 #### Unwallet
 
