@@ -90,9 +90,12 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 #### Hashi
 
 - *See [Safe on Hashi](https://www.gnosis.io/blog/safe-on-hashi) by Gnosis*
-- Created by Gnosis as a [Safe module](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Farchitecture#Pluginsmodules)
-- Creates a main Safe that can control secondary Safes on other networks
-- Built prototypes for both [push and pull strategies](#Push-vs-Pull-model)
+- About
+    - Created by Gnosis as a [Safe module](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Farchitecture#Pluginsmodules)
+    - Creates a main Safe that can control secondary Safes on other networks
+    - Built prototypes for both [push and pull strategies](#Push-vs-Pull-model)
+- X: [@hashialliance](https://twitter.com/hashialliance)
+- GitHub: [github.com/crosschain-alliance/safe-crosschain](https://github.com/crosschain-alliance/safe-crosschain)
 
 #### Peanut Protocol
 
