@@ -72,6 +72,10 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - Site: [biconomy.io](https://www.biconomy.io/)
 - X: [@biconomy](https://twitter.com/biconomy)
 
+#### Privy
+
+- Site: [privy.io](https://www.privy.io/)
+
 #### ZeroDev
 
 - Site: [zerodev.app](https://zerodev.app/)
