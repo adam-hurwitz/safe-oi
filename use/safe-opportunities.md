@@ -143,9 +143,9 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 - [SafeDAO > Governance > Incorporation](https://hackmd.io/@safedao/og#Incorporation)
 - [DAOs > Related organizations](https://docs.google.com/document/d/109xrmTFRvI1nBPEOKb8O2sunNJ7HkENNqVM_8t3804E/edit#heading=h.i4o711hu29l3)
 
-#### Safe open guides (P1)
+#### Safe open info (OI) (P1)
 
-- [Safe open guides](https://forum.gnosis-safe.io/t/safe-open-guides/2539) _on Safe forum 2023-01-28_
+- [Safe open information](https://forum.gnosis-safe.io/t/safe-open-guides/2539) _on Safe forum 2023-01-28_
 - v1: Complementary and separate core team documentation and community guides
 - Long-term vision
     - Potentially unified core team documentation and community guides
@@ -193,7 +193,23 @@ image: https://pbs.twimg.com/profile_banners/8467082/1674046807/1500x500
 
 - [Multinetwork Safe](https://hackmd.io/@safe/oi/https%3A%2F%2Fhackmd.io%2F%40safe%2Fmultinetwork)
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
+# Farcaster
+
+#### Warpcast frame to convert a channel into a Safe (P2)
+
+- Fund the channel hosting fee in Warps
+- Manage access controls of cohosts and content moderation
+- etc.
+- *[See @adamshurwitz post](https://twitter.com/adamshurwitz/status/1755634029548777936)*
+
+# Traditional finance (TradFi)
+
+#### Sign documents and contracts (P2)
+
+- Sign documents and contracts using a Safe account
+- You may potentially need to verify your ID on 1 approval account to be legally accepted
+
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research.</p>
 
 <style>
     .markdown-body h1 {
