@@ -93,6 +93,14 @@ Perform transactions
 - Recurring or one-time
 - Only beneficiaries who are also owners can actually withdraw funds.
 
+#### Manage Safe modules
+
+- About: Modules provide features, access, and integrations to apps outside of the main Safe account
+- Manage: [app.safe.global](https://app.safe.global) > "Settings" (Left navigation menu) > "Modules" tab
+    - Safe Account modules
+    - Transaction guards
+    - Fallback handler
+
 ## Troubleshoot
 
 - If using a Ledger: [Enable smart contract data](https://hackmd.io/fNvoR6H4RjCygPVIn7-Fzw#2-Add-ETH-addresses-as-signers)
